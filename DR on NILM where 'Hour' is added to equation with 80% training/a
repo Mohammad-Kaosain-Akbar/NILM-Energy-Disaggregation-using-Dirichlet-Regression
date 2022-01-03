@@ -1,0 +1,3 @@
+inputData$Y <- DR_data (inputData[,6:11])  # prepare the Y's
+inputData_train$Y <- DR_data (inputData_train[,6:11])
+inputData_test$Y <- DR_data (inputData_test[,6:11])
