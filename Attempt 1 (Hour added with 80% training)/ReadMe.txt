@@ -1,4 +1,4 @@
-READ BELOW FOR UNDERSTANDING HOW TO RUN THE FILES
+# READ BELOW FOR UNDERSTANDING HOW TO RUN THE FILES
 
 1. 'NILM using Dirichlet Regression.ipynb' file runs using R kernal and it generates the output
 
